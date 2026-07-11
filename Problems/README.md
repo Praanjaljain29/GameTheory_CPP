@@ -9,6 +9,7 @@ Each solution is implemented in C++ and focuses on understanding the core idea b
 | # | Problem  | Concept       | Platform   | Solution       |
 | - | -------- | ------------- | ---------- | -------------- |
 | 1 | [Nim Game](https://www.hackerrank.com/challenges/nim-game-1/problem) | Nim Sum / XOR | HackerRank | [Solution](./nim_game.cpp) |
+| 2 |[Array's Game](https://www.geeksforgeeks.org/problems/arrays-game0327/1) | Parity of Total Moves | GfG | [Solution](./arrays_game.cpp) |
 
 ## Learning Approach
 
