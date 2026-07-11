@@ -8,7 +8,7 @@ Each solution is implemented in C++ and focuses on understanding the core idea b
 
 | # | Problem  | Concept       | Platform   | Solution       |
 | - | -------- | ------------- | ---------- | -------------- |
-| 1 | Nim Game | Nim Sum / XOR | HackerRank | `nim_game.cpp` |
+| 1 | [Nim Game](https://www.hackerrank.com/challenges/nim-game-1/problem) | Nim Sum / XOR | HackerRank | [Solution](./nim_game.cpp) |
 
 ## Learning Approach
 
